@@ -1,0 +1,13 @@
+sum_of_impact_speed
+info
+add
+ils
+34
+34
+1
+1
+44
+BAT
+GLOOM
+car
+execute_script /Users/macbookpro/Yandex.Disk.localized/Итмо/Прога/Лаб8прога/lab8/script.txt
